@@ -66,3 +66,7 @@ As you can see the logfile is indeed password protected.
 ## SUCCESS!
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/202923399-09681078-a703-4952-ae89-ba1f86e0020f.png">
+
+On the fourth attempt the logfile was unlocked and I was able to access the information needed.
+
+While this one was extremely easy and guessed on only the fourth attempt, not all will be this easy. I was easily expecting to go into different combinations of using the current AO "the black sea" and the type of vessel theirs looked like "a fishing trawler." 
