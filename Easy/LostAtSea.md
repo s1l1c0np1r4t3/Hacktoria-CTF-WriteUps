@@ -9,6 +9,7 @@ Follow me on twitter to stay updated! [Twitter @s1l1c0np1r4t3x](https://twitter.
 # LOST AT SEA
 <img width="500" src="https://user-images.githubusercontent.com/56886006/202922304-beb8c8cf-3c8d-4409-9b09-1dbc7b7e3894.png">
 Link to CTF: Link to CTF: https://hacktoria.com/contracts/lost-at-sea/
+
 ## Description/Debrief
 
 Greetings Special Agent K. Yesterday at exactly 22:34 EET we lost contact with our surveillance ship “Narwhal”. A distress signal was sent out, right after this all communication was lost. The Narwhal was operating in the Black Sea, keeping an eye on Russian submarine and aerial activity.
