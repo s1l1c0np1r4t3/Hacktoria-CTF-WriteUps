@@ -15,7 +15,7 @@ Link to CTF: Link to CTF: https://hacktoria.com/contracts/lost-at-sea/
 ## Process:
 
 The objective is to obtain access to a password protected file that is the logbook of the ship and will reveal its last location.
-<br>
+<br/>
 
 ### 1. Download assets
 **Downloaded ship logbook file**
@@ -23,7 +23,7 @@ The objective is to obtain access to a password protected file that is the logbo
   
 <img width="500" src="https://user-images.githubusercontent.com/56886006/202922659-1ecf0c1a-806e-4ec8-8d95-2175e38d8564.png">
 As you can see the logfile is indeed password protected.
-<br>
+<br/>
   
 **Before I dove in an put the file up against software like Hashcat, John the Ripper, etc., I decided to try and crack the password myself with a little social engineering.**
 
