@@ -24,3 +24,20 @@ The objective is to obtain access to a password protected file that is the logbo
 As you can see the logfile is indeed password protected.
   
 **Before I dove in an put the file up against software like Hashcat, John the Ripper, etc., I decided to try and crack the password myself with a little social engineering.**
+
+
+### 2. Analyze the information given in the debrief
+**What do I know?**
+<ul>
+  <li>Lost contact with the ship yesterday at exactly 22:34 EET.</li>
+  <li>The Narwhal was operating in the Black Sea.</li>
+  <li>It's mission was to keep an eye on Russian submarine and aerial activity.</li>
+  <li>The ships name is the Narwhal.</li>
+  <li>The ship was built in 2018.</li>
+  <li>Looks like a regular fishing trawler.</li>
+  <li>It is outfitted with state of the art equipment.</li>
+  <li>Houses a crew of 10.</li>
+  <li>British Royal Navy responded immediately.</li>
+  <li>General beacon technology overview.</li>
+  <li>General Captain password proticol overview.</li>
+</ul>
