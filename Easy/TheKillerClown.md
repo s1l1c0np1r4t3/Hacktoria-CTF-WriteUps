@@ -42,7 +42,7 @@ The objective is to put together the password to a file in which contains the lo
 
 The file is indeed password protected. A sample password was supplied: 
 
--- Sample password, no caps: local-park-name-dirty-mud-path
+- Sample password, no caps: local-park-name-dirty-mud-path
 
 **Instead of trying to crack the password or anything like that I decided to dive right in and try to find the location of the victim using the image provided.**
 
