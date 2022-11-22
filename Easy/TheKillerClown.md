@@ -67,14 +67,14 @@ This is the general area of the attacks as well as our current victim.
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203389895-e0615745-1469-4f71-8cb9-568108e8e9b4.png">
 
-I immediately noticed Berkeley on the map as the are where the victim is from. So I decided to take a closer look there.
+**I immediately noticed Berkeley on the map as the are where the victim is from. So I decided to take a closer look there.**
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203390200-e2e014a7-827a-4f61-b748-0790cc0b9a05.png">
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203390158-434db564-caf9-4c71-915c-a34092fb241e.png">
 
 The victim was reported missing by her boyfriend after not returning from her evening jog.
 
-While the possibilites of the victims route if very large I wanted to stick with the most likely of possibilites. I decided to look for trails or parks which someone might go jogging. Specifically in the Northwest region of Berkley.
+While the possibilites of the victims route if very large I wanted to stick with the most likely of possibilites. **I decided to look for trails or parks which someone might go jogging. Specifically in the Northwest region of Berkley.**
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203390403-6ea7700b-0de9-4846-a1f9-8bce64c4c8a3.png">
 
@@ -85,7 +85,7 @@ As you can see in the North West vacinity of Berkely where are victim was abduct
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203390626-15f85935-bf66-4329-9ce2-70502fefe9ca.png">
 
-I decided to start with Cedar Rose Park as it is the closest to the North West area on the map. 
+**I decided to start with Cedar Rose Park as it is the closest to the North West area on the map**
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203390725-a85f190c-cc19-46b4-8c79-a8da9eba960b.png">
 
@@ -138,12 +138,12 @@ On this photo I marked the location of the street view, bench and building. As w
 
 Now I have the name of a park and pathway in that park that seems like a very good possibility to try asthe password for the file supplied by the suspect. Cedar Rose Park, Ohlone Greenway.
 
-Sample password, no caps: local-park-name-dirty-mud-path
+> Sample password, no caps: local-park-name-dirty-mud-path
 
-local-park-name = cedar-rose-park
-dirty-mud-path = ohlone-greenway
+> local-park-name = cedar-rose-park
+> dirty-mud-path = ohlone-greenway
 
-cedar-rose-park-ohlone-greenway 
+> cedar-rose-park-ohlone-greenway 
  
 SUCCESS!
 
