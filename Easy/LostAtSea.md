@@ -82,7 +82,7 @@ As you can see the logfile is indeed password protected.
 
 ## SUCCESS!
 
-<img width="500" src="https://user-images.githubusercontent.com/56886006/202923399-09681078-a703-4952-ae89-ba1f86e0020f.png">
+<img width="500" src="https://user-images.githubusercontent.com/56886006/203345010-7a5e4673-6a16-43b2-8690-2596086750a6.png">
 
 On the fourth attempt the logfile was unlocked and I was able to access the information needed.
 
