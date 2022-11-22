@@ -29,7 +29,7 @@ Special Agent K. The contract is yours, if you choose to accept.
 
 ## Process:
 
-The objective is to put together the password to a file in which contains the location of the victim using the current location of the victim  discoverable only through a picture provided by the suspect. (Pictured directly below.)
+The objective is to put together the password to a file in which contains the location of the victim.  Using the current location of the victim discoverable only through a picture provided by the suspect. (Pictured directly below.)
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203388747-2f92d2cd-02e6-43e7-8670-3e1d2fd170b6.jpg">
 
@@ -107,7 +107,7 @@ I noticed the walkways, trashcan and bench in one of the google maps photos abou
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203391234-dde7f515-9cc8-41f5-9803-8cf7ecd60c07.png">
 
-I took note of the where the picture was taken by the uploader from the little yellow avatar that represents google street view. So I backed out of pictures and looked for that spot on maps.
+I took note of the where the picture was taken by the uploader from the little yellow avatar that represents google street view. So I backed out of the pictures and looked for that spot on maps.
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203391494-561098dd-c3f1-4383-8e6e-39504b87fd33.png">
 
@@ -130,13 +130,13 @@ Notice these few things:
 
 This looked like a very promising possibility to me. Knowing I needed the park name and the path name for the password I noted the park name was "Cedar Rose Park" and started to look for the path name.
 
-There was no signs or paths name availabe from street so I back to normal view to see if it wasn't marked on the map.
+There was no signs or path names availabe from street so I went back to normal view to see if it was marked on the map.
 
 On this photo I marked the location of the street view, bench and building. As well as I circled the name of the path "Ohlone Greenway."
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/203392134-26afa722-1071-4029-b0f0-6dd6c52d1a98.png">
 
-Now I have the name of a park and pathway in that park that seems like a very good possibility to try asthe password for the file supplied by the suspect. Cedar Rose Park, Ohlone Greenway.
+Now I have the name of a park and pathway in that park that seems like a very good possibility to try as the password for the file supplied by the suspect. Cedar Rose Park, Ohlone Greenway.
 
 > Sample password, no caps: local-park-name-dirty-mud-path
 
