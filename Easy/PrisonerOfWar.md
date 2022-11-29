@@ -90,7 +90,7 @@ There are quite a few things I noticed that matched up with the supplied photo.
 <img width="500" src="https://user-images.githubusercontent.com/56886006/204671546-019b4db3-1c11-4d4a-83bb-30f6db1cc82c.png">
 <img width="500" src="https://user-images.githubusercontent.com/56886006/204671610-4731a050-b981-4514-b2a5-bb39fd7a3bdd.png">
 
-Not only do the circular structures look like a very good match now. But so do the buildings as well. The buildins are the same color, have the same windows, square design near roof, thin roof, short walls and the short walls also have a diamond hole type unique design on them towards the top.
+Not only do the circular structures look like a very good match now. But so do the buildings as well. The buildings are the same color, have the same windows, square design near roof, thin roof, short walls and the short walls also have a diamond hole type unique design on them towards the top.
 
 I was extremely confident that I had found the location at this point.
 
