@@ -31,7 +31,7 @@ As always, Special Agent K. The contract is yours, if you choose to accept.
 
 ## Process:
 
-The objective is to locate the building where it is believed the French Private Raphaël Bernard is being held after an ambush, using only a physical photograph supplied by young girl, the general location of AO of the French detatchment and the coordinated of the ambush.
+The objective is to locate the building where it is believed the French Private Raphaël Bernard is being held after an ambush, using only a physical photograph supplied by young girl, the general location of AO of the French detatchment and the exact coordinates of the ambush.
 
 
 ### 1. Analyze the information given in the debrief
