@@ -102,4 +102,6 @@ This is what I found:
 
 BINGO!! Found the exact house in the picture!
 
+Use the name of the childrens home to unlock the file and receive your contract card!
+
 Hope you enjoyed!
