@@ -7,7 +7,7 @@ Follow me on twitter to stay updated! [Twitter @s1l1c0np1r4t3x](https://twitter.
 ---
 
 # PRISONER OF WAR
-<img width="500" src="[prisonerOfWar picture HERE](https://user-images.githubusercontent.com/56886006/204670876-ab1e3911-ba05-4474-9703-02028ec97d80.jpg)">
+<img width="500" src="https://user-images.githubusercontent.com/56886006/204670876-ab1e3911-ba05-4474-9703-02028ec97d80.jpg">
 Link to CTF: https://hacktoria.com/contracts/prisoner-of-war/
 
 ## Description/Debrief
