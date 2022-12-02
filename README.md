@@ -10,7 +10,7 @@ Or get all my links here: [LinkTree @s1l1c0np1r4t3x](https://linktr.ee/s1l1c0np1
 
 ---
 
-###This is my repo where I will store all my write ups and reports as I make my way through Hacktoria's awesome CTF's!
+This is my repo where I will store all my write ups and reports as I make my way through Hacktoria's awesome CTF's!
 
 All of Hacktoria's CTF challanges are available here:
 
