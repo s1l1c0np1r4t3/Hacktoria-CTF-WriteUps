@@ -4,6 +4,8 @@
 
 Follow me on twitter to stay updated! [Twitter @s1l1c0np1r4t3x](https://twitter.com/s1l1c0np1r4t3x)
 
+Or get all my links here: [LinkTree @s1l1c0np1r4t3x](https://linktr.ee/s1l1c0np1r4t3)
+
 ---
 
 # THE KILLER CLOWN
@@ -154,3 +156,9 @@ It would seem that I foudn the corret location! Using the name of the correct pa
 This one was fun. I did stop some where in the middle to look at other parks in the area. I spent maybe 15mins just going real quick in between as many in the area as I could to see them at least visually. 
 
 Until next time!
+
+
+
+h4ppy hunt1ng!
+
+s1l1c0np1r4t3
