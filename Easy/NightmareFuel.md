@@ -74,7 +74,7 @@ Here are the results:
 
 As you can see there was a lot of information was looked for and was available.  
 
-However one thing specifically sticks out if you know what you are looking for. In the metadata of any video or picture there is a comment option. This is usually blank unless changed by a person or a piece of software. Curios enough to have a look at it, at least for me.
+However one thing specifically sticks out if you know what you are looking for. In the metadata of any video or picture there is a comment option. This is usually blank unless changed by a person or a piece of software. Curious enough to have a look at it, at least for me.
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/205347393-62245440-da4b-4011-baeb-eb6af5ac3cd0.png">
 
