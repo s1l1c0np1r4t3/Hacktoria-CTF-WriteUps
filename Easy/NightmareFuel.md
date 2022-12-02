@@ -72,7 +72,7 @@ Here are the results:
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/205347233-9b270edb-d777-4a7d-8c9a-0f0e9cd2c6c2.png">
 
-As you can see there was a lot of information got looked for and was available.  
+As you can see there was a lot of information was looked for and was available.  
 
 However one thing specifically sticks out if you know what you are looking for. In the metadata of any video or picture there is a comment option. This is usually blank unless changed by a person or a piece of software. Curios enough to have a look at it, at least for me.
 
