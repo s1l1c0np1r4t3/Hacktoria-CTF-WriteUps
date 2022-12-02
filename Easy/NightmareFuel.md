@@ -58,6 +58,8 @@ https://github.com/exiftool/exiftool
 
 https://exiftool.org/
 
+Here is the command I used:
+
 `exiftool bodycam-officer-1.mp4` 
 
 Through the use of exiftool you can learn all sorts of things about videos and pictures. It is a great tool that runs on Windows, Linux and Mac. Not only that but it has a stand alone available so no install is needed on some platforms.
