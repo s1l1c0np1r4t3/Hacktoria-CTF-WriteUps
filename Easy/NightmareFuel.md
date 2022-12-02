@@ -8,7 +8,7 @@ Or get all my links here: [LinkTree @s1l1c0np1r4t3x](https://linktr.ee/s1l1c0np1
 
 ---
 
-# The Butcher
+# Nightmare Fuel
 <img width="500" src="https://user-images.githubusercontent.com/56886006/205346761-4e96b0e1-1181-4128-b769-ac9709b2dbf6.jpg">
 Link to CTF: https://hacktoria.com/contracts/nightmare-fuel/
 
