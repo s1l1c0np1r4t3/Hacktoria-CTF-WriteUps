@@ -88,4 +88,7 @@ SUCCESS!!
 
 The string of letters and numbers found in the comment area of the videos metadata gave us the correct password to be able to open the Hacktoria flagfile, get out sweet contract card and claim victory over this CTF!
 
+
+h4ppy hunt1ng!
+
 s1l1c0np1r4t3
