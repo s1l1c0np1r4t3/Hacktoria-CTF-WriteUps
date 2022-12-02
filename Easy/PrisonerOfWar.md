@@ -4,6 +4,8 @@
 
 Follow me on twitter to stay updated! [Twitter @s1l1c0np1r4t3x](https://twitter.com/s1l1c0np1r4t3x)
 
+Or get all my links here: [LinkTree @s1l1c0np1r4t3x](https://linktr.ee/s1l1c0np1r4t3)
+
 ---
 
 # PRISONER OF WAR
