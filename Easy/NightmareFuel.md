@@ -50,7 +50,7 @@ Creepy huh?
 
 Let's see if we can't find anything about the video that might be useful.
 
-The first think I noticed was the audio was indeed missing. There was no audio to the video. 
+The first thing I noticed was the audio was indeed missing. There was no audio to the video. 
 
 I decided to run it the video through my favorite metadata tool exiftool:
 
