@@ -4,6 +4,8 @@
 
 Follow me on twitter to stay updated! [Twitter @s1l1c0np1r4t3x](https://twitter.com/s1l1c0np1r4t3x)
 
+Or get all my links here: [LinkTree @s1l1c0np1r4t3x](https://linktr.ee/s1l1c0np1r4t3)
+
 ---
 
 # LOST AT SEA
@@ -87,3 +89,8 @@ As you can see the logfile is indeed password protected.
 On the fourth attempt the logfile was unlocked and I was able to access the information needed.
 
 While this one was extremely easy and guessed on only the fourth attempt, not all will be this easy. I was easily expecting to go into different combinations of using the current AO "the black sea" and the type of vessel theirs looked like "a fishing trawler." 
+
+
+h4ppy hunt1ng!
+
+s1l1c0np1r4t3
