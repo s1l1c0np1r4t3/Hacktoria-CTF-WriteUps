@@ -58,6 +58,8 @@ https://github.com/exiftool/exiftool
 
 https://exiftool.org/
 
+
+
 Here is the command I used:
 
 `exiftool bodycam-officer-1.mp4` 
@@ -86,4 +88,4 @@ SUCCESS!!
 
 The string of letters and numbers found in the comment area of the videos metadata gave us the correct password to be able to open the Hacktoria flagfile, get out sweet contract card and claim victory over this CTF!
 
-- s1l1c0np1r4t3 -
+s1l1c0np1r4t3
