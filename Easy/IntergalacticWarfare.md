@@ -65,11 +65,11 @@ It was clear to me now it was highly likely that the location I needed to find i
 
 Ok so now what? All I have is this picture. I had to think for a second and reread my debrief. 
 
-"Shortly after impact, several helicopters arrived. US government personnel took away the wreckage and headed in southern direction."
+> "Shortly after impact, several helicopters arrived. US government personnel took away the wreckage and headed in southern direction."
 
-"So far any attempts at locating the helicopters has been futile."
+> "So far any attempts at locating the helicopters has been futile."
 
-"Regardless, we need to find the location of these aliens."
+> "Regardless, we need to find the location of these aliens."
 
 Ok, I am looking for these aliens that have already been picked up from the crash site by government helicopters.
 
