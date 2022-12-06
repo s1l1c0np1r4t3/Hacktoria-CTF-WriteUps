@@ -81,7 +81,7 @@ But how do I narrow down the possible location with the serach radius being so l
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/205999006-936baa25-3db6-4180-846c-7a8096515b54.png">
 
-I am now looking for a true desert type area that is within helicopter flight distance. Helicopters have ageneral flight radius of 250 to 400 miles on a single tank. There are, however, better-equipped helicopters, such as certain military helicopters, that can reach up to 1200 miles. So I decided to start with at least the desert climates closest to the crash site.
+I am now looking for a true desert type area that is within helicopter flight distance. Helicopters have a general flight radius of 250 to 400 miles on a single tank. There are, however, better-equipped helicopters, such as certain military helicopters, that can reach up to 1200 miles. So I decided to start with at least the desert climates closest to the crash site.
 
 <img width="500" src="https://user-images.githubusercontent.com/56886006/205999091-bca9156d-6b51-4a9e-bcec-b1ab05a565d6.png">
 
@@ -99,6 +99,7 @@ This is the location that comes up when you search for Area 51:
 This looks like a more reasonable search location for the type of climate show in the photograph.
 
 Getting a closer look: 
+
 <img width="500" src="https://user-images.githubusercontent.com/56886006/205999370-5a85aaad-a75a-4a69-b7d0-61751a5c4780.png">
 
 Toward the top of the area there was a "A on it's side" shaped road system that was clearly recognizable.
@@ -129,6 +130,6 @@ country-state-county-161.2570-12.7212
 and you unlock the contract card!
 
 
-h4ppy h4ck1ng!
+h4ppy hunt1ng!
 
 s1l1c0np1r4t3
