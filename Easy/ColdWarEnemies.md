@@ -8,7 +8,7 @@ Or get all my links here: [LinkTree @s1l1c0np1r4t3x](https://linktr.ee/s1l1c0np1
 
 ---
 
-# The Butcher
+# Cold War Enemies
 <img width="500" src="https://user-images.githubusercontent.com/56886006/207452342-67fdcde7-4711-4fd0-96f6-3a37fcea49c0.jpg">
 Link to CTF: https://hacktoria.com/contracts/cold-war-enemies/
 
@@ -35,9 +35,8 @@ The objective is to find the Air Base as it will lead to the password for unlock
 ### 1. Analyze the information given in the debrief
 **What do I know?**
 <ul>
-<li>Crash happened near McKenzie National Park in Oregon.</li>
-  <li>I know finding the location of the building marked with the red corss in the picture will successfully complete the objective.</li>
-  <li>I will use the coordinates to unlock the password file.</li>
+  <li>I know finding the location of the building marked with the red cross in the picture will successfully complete the objective.</li>
+  <li>I will use the combination of location etc in proper format to unlock the password file.</li>
 </ul>
 
 This is the image:
